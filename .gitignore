@@ -1,0 +1,6 @@
+*.DS_Store
+./.git/objects/pack/pack-02e626e0f4cf573d8e988542b4923ec7cf0fd15e.pack
+.DS_Store
+.git/objects/pack/pack-02e626e0f4cf573d8e988542b4923ec7cf0fd15e.pack
+.tmpstore
+input/
